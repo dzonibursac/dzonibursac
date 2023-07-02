@@ -1,4 +1,4 @@
-- 👋 Zdravo svima, ovde @dzonibursac - ne samo običan čovek, već i neko ko veruje u snagu otvorenih izvora, transparentnosti i demokratije.
+- 👋 Zdravo svima, ovde @dzonibursac - ne samo običan čovek, već i neko ko veruje u snagu izbora, otvorenih izvora, transparentnosti i demokratije.
 - 👀 Umorni od stalne eksploatacije naših podataka i ograničenja u komunikaciji koje nameću profit-orijentisane kompanije? Verujem da možemo bolje. Verujem da možemo izgraditi platformu koja poštuje našu privatnost, omogućava nesmetanu komunikaciju, upravlja idejama, podstiče konstruktivnu diskusiju i transparentno izvršava projekte od nivoa mesne zajednice do upravljanja državom.
 - 🌱 Pozivam sve zainteresovane da se pridruže ovoj inicijativi. Da li postoji dovoljno svesti da realizujemo ovakav projekat? Samo vreme će pokazati, ali ja verujem u nas.
 - 💞️ Tražim programere, dizajnere, produkt menadžere, aktiviste, entuzijaste za otvorene izvore, donatore - u stvari, svakoga ko je voljan da pruži svoj doprinos. Bez obzira da li ste iskusni stručnjak ili neko ko želi da nauči, potrebni ste nam. Bez obzira da li imate vremena da pružite, veštine da podelite, ili novac da donirate, vaš doprinos je dragocen.
@@ -16,7 +16,7 @@ Svaka uloga u ovom projektu je važna i ovde su neke od uloga koje će biti klju
 
 Ovaj projekat je više od samo platforme za komunikaciju - to je naša prilika da pokažemo da možemo izgraditi bolju alternativu, koja poštuje naše prava, naše podatke i našu sposobnost da se organizujemo i delujemo zajedno. Hvala vam što ste deo ove promene!
 
-Ako želite da saznate više, obratite se na nikoletinabursac@protonmail.com. Ako želite da se pridružite, kliknite na 'fork' i počnite da doprinosite. Ne možemo da čekamo da vidimo šta ćemo zajedno izgraditi.
+Ako želite da saznate više, obratite se na nikoletinabursac@protonmail.com. Ako želite da se pridružite, kliknite na 'fork' i počnite da doprinosite. Jedva čekam da vidimo šta ćemo zajedno izgraditi 💪
 
 
 <!---
